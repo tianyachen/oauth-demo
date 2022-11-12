@@ -14,7 +14,3 @@ Secret: <django-secret-goes-here>
 Key: <google-oauth2-key>
 Secret: <google-oauth2-secret>
 
-
-[Addrbook]
-title=OAuth AddrBook Example
-users=@andrew.cmu.edu
