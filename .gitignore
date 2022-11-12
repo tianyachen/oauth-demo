@@ -1,0 +1,22 @@
+*.log
+*.pot
+*.pyc
+local_settings.py
+
+# Django's SQL Lite Database File
+db.sqlite3
+
+# Django generated migrations
+0*.py
+
+.DS_Store
+
+# Virtual Environments, IDE, Editor backup files
+venv
+my_env
+*~
+*#
+.idea
+
+# Don't upload .ini files
+*.ini
